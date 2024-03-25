@@ -14,10 +14,10 @@ int subtract(int a, int b)
     return c;
 }
 
-int mul(int a, int b)
+int mul(int a, int b, int d)
 {
 
-    int c = a * b;
+    int c = a * b * d;
     return c;
 }
 
